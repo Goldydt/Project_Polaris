@@ -28,8 +28,3 @@ Polaris automates fishing in *Fish It!* — it casts, detects bites, and reels a
 5. Press **F2** to stop or **F3** to exit.  
 
 Settings are saved automatically next to the EXE.
-
----
-
-## 📦 Version
-**v1.0.0 – November 2025**
